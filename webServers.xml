@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc0e00ba-6999-456d-a0b9-d77d89476d92" name="Admin Tool" url="http://manage.pod-point.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
