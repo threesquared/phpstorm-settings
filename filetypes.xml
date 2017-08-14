@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="MoneroWallet" type="PLAIN_TEXT" />
       <mapping pattern="ProductTableSeeder" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="MoneroWallet.php" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="torrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
