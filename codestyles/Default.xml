@@ -1,5 +1,6 @@
 <code_scheme name="Default">
   <PHPCodeStyleSettings>
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
