@@ -11,6 +11,7 @@
       <mapping pattern="pp-down" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="rs" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
