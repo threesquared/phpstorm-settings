@@ -4,9 +4,9 @@
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="typings" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="typings" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="pp-down" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
@@ -17,6 +17,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
