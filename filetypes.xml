@@ -18,6 +18,7 @@
       <mapping pattern="50unattended-upgrades" type="PLAIN_TEXT" />
       <mapping pattern=".zipignore" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="confg" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
