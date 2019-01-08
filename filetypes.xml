@@ -3,10 +3,10 @@
     <extensionMap>
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".rtorrent.rc" type="PLAIN_TEXT" />
       <mapping pattern="typings" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -14,7 +14,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="20auto-upgrades" type="PLAIN_TEXT" />
-      <mapping pattern=".rtorrent.rc" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="50unattended-upgrades" type="PLAIN_TEXT" />
       <mapping pattern=".zipignore" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
@@ -32,6 +32,7 @@
       <mapping ext="ps1" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="m3u" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
